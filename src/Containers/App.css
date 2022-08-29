@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Smoedy Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Smoedy Regular'), url('Smoedy-GOgmg.woff') format('woff');
+    }
+
+h1{
+    font-family: 'Smoedy Regular';
+    font-weight: 200;
+    color: #8eca0c;
+}
+
